@@ -7,5 +7,5 @@ def oldest(people:dict):
         str: the name of the oldest person
     """
 
-    return max(people)
-print(oldest_person({"Javohir": 22, "Sharof": 23, "Tolib": 34, "Rustam": 16}))
+    return 
+print(oldest({"Javohir": 22, "Sharof": 23, "Tolib": 34, "Rustam": 16}))
